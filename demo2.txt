@@ -1,1 +1,2 @@
 isolated changes only in brach feature not in master branch.
+adding additional line to make conflict.
