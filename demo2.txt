@@ -1,1 +1,2 @@
-adding file 2 to feature branch
+adding file 2
+creating conflict in demo2.txt
